@@ -37,8 +37,11 @@
                             Services
                         </a>
                         <ul class="dropdown-menu">
+                            <!-- web-hosting.php -->
                             <li><a class="dropdown-item" href="#">WebHosting</a></li>
+                            <!-- wordpress-hosting.php -->
                             <li><a class="dropdown-item" href="#">Wordpress Hosting</a></li>
+                            <!-- custom-website-development.php -->
                             <li><a class="dropdown-item" href="#">Custom Website Development</a></li>
                             <li><a class="dropdown-item" href="#">Cross-platform App Development</a></li>
                         </ul>
